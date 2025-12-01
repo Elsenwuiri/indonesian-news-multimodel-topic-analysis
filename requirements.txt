@@ -1,0 +1,15 @@
+bertopic[all]
+gensim
+hdbscan
+matplotlib
+numpy
+pandas
+pyLDAvis
+sastrawi
+scikit-learn
+sentence-transformers
+seaborn
+spacy==3.5.0
+Sastrawi
+tqdm
+umap-learn
