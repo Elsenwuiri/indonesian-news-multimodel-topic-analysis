@@ -28,6 +28,14 @@ df = os.path.join(path, "data.csv")
 
 ## Requirements
 
+Instal library menggunakan pip:
+
+```
+pip install -r requirements.txt
+```
+
+Isi requirements.txt:
+
 ```Requirements
 bertopic[all]
 gensim
@@ -50,5 +58,7 @@ umap-learn
 
 1. Buka file **"UAS NLP 1.0.ipynb"** dan run kode tersebut hingga mengghasilkan file **"stemmed_data.csv"**.
 2. Jalankan kode **"UAS NLP 2.0.ipynb"** untuk model, visualisasi dan metriks evaluasi.
+
 # indonesian-news-multimodel-topic-analysis
+
 # indonesian-news-multimodel-topic-analysis
