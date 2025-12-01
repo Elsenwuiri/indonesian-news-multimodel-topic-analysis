@@ -60,5 +60,8 @@ umap-learn
 2. Jalankan kode **"UAS NLP 2.0.ipynb"** untuk model, visualisasi dan metriks evaluasi.
 
 # indonesian-news-multimodel-topic-analysis
+<<<<<<< HEAD
 
 # indonesian-news-multimodel-topic-analysis
+=======
+>>>>>>> acc00c77b5115fcdf8c92b2da3c968ff377c0e04
